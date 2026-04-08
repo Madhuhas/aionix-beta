@@ -1,4 +1,4 @@
-# AIONIX ai_os (Beta)
+# AIONIX (Beta)
 
 AI-powered shell/OS prototype. Natural language to commands via local Ollama (qwen2.5:0.5b). Modular engines: voice, memory, file mgmt, system monitor, app/package launcher. Windows-first, Linux-compatible.
 

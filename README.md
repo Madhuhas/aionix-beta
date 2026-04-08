@@ -1,4 +1,4 @@
-# AIONIX ai_os (Beta)
+# AIONIX (Beta)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/) [![GitHub Repo](https://img.shields.io/badge/github-Madhuhas%2Faionix--beta-blue)](https://github.com/Madhuhas/aionix-beta)
 
